@@ -89,7 +89,7 @@ function Home() {
     <ul className="space-y-3 pl-6 text-gray-600">
       <li className="flex items-start">
         <span className="inline-block w-2 h-2 rounded-full bg-indigo-500 mt-2 mr-3"></span>
-        <span>Display a list of mock AI safety incidents showing Title, Severity, and Reported Date (in UTC).</span>
+        <span>Display a list of mock AI safety incidents showing Title, Severity, and Reported Date.</span>
       </li>
       <li className="flex items-start">
         <span className="inline-block w-2 h-2 rounded-full bg-indigo-500 mt-2 mr-3"></span>
